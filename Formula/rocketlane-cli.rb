@@ -3,8 +3,8 @@ class RocketlaneCli < Formula
 
   desc "CLI tool for Rocketlane — Professional Services Automation from the terminal"
   homepage "https://github.com/trouze/rocketlane-cli"
-  url "https://github.com/trouze/rocketlane-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d763dc22d5336ebdc2605ecd5e614823ec4b13096802fb0ed8cc1abe4117e9b0"
+  url "https://github.com/trouze/rocketlane-cli/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "36edc324392021235c071121059530ae13a927095f03d282115cd68190cc5198"
   license "MIT"
   head "https://github.com/trouze/rocketlane-cli.git", branch: "main"
 
